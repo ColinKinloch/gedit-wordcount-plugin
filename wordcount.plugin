@@ -4,6 +4,6 @@ Module=wordcount
 IAge=3
 Name=Wordcount
 Description=Shows Wordcount in Statusbar
-Authors=Jonathan Butcher <footley@gmail.com>
+Authors=Jonathan Butcher <footley@gmail.com>, Colin Kinloch <colin@kinlo.ch>
 Copyright=Copyright © 2012 Jonathan Butcher <footley@gmail.com>
 Website=https://github.com/footley/gedit-wordcount-plugin
